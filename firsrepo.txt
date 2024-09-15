@@ -3,6 +3,8 @@
 
 <I reviewed the report and changed many mistakes>
 
+I am enjoying the level of my understanding of this Git.
+
 The level of understanding of Git is smooth.<added at remote>
 I hope to keep this level of understanding smooth.<added at remote>
 
