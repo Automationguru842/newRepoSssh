@@ -4,7 +4,10 @@
 <I reviewed the report and changed many mistakes>
 
 I am correcting this reprot as the reviewer has commented.
-The below statement has revisited as advised. 
+The below statement has revisited as advised.
+
+The level of my understanding of Git is getting smooth.
+I hope to continue this level for a long time. 
 
 
 At appox.12:00, an individual was noticed behaving suspiciously 
