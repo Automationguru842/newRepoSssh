@@ -3,6 +3,9 @@
 
 <I reviewed the report and changed many mistakes>
 
+The level of understanding of Git is smooth.<added at remote>
+I hope to keep this level of understanding smooth.<added at remote>
+
 I am correcting this reprot as the reviewer has commented.
 The below statement has revisited as advised. 
 
