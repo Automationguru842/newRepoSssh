@@ -21,4 +21,7 @@ the bag carried by the suspicious individual.
 
 I am enjoying this course with simpilearn. They are the best online trainers. <----added at the local repo------>
 
+
 Now that Im learning how branches work in Git, Im happy to learn.
+This is a line to cause confilict in merging into the master branch. I hope I am enjoying this course <------New change------>
+
