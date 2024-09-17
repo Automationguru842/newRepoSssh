@@ -20,3 +20,5 @@ around the estate. The security office on post was asked to on post was asked to
 the bag carried by the suspicious individual.
 
 I am enjoying this course with simpilearn. They are the best online trainers. <----added at the local repo------>
+
+This is a line to cause confilict in merging into the master branch. I hope I am enjoying this course <------New change------>
